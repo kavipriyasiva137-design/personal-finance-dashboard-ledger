@@ -1,0 +1,360 @@
+{
+  "users": [
+    {
+      "email": "admin@finsphere.com",
+      "password": "2526",
+      "name": "Alex Mercer",
+      "phone": "+1 650-555-0190",
+      "bankName": "FinSphere Digital Bank",
+      "accountNumber": "•••• •••• 9876",
+      "gpayPin": "2526",
+      "appLockEnabled": false,
+      "appLockType": "number",
+      "patternSequence": "",
+      "age": 28,
+      "appLockPin": "8899"
+    }
+  ],
+  "transactions": [
+    {
+      "id": "1785679914987",
+      "userEmail": "kavi@gmail.com",
+      "description": "Koushik Transfer",
+      "category": "Salary",
+      "type": "income",
+      "amount": 100000,
+      "date": "2026-08-02",
+      "address": "Anna Nagar, Chennai, TN (Mock Location)"
+    },
+    {
+      "id": "1785679910667",
+      "userEmail": "kavi@gmail.com",
+      "description": "Koushik Transfer",
+      "category": "Salary",
+      "type": "income",
+      "amount": 100000,
+      "date": "2026-08-02",
+      "address": "Anna Nagar, Chennai, TN (Mock Location)"
+    },
+    {
+      "id": "1785214103471",
+      "userEmail": "kavi@gmail.com",
+      "description": "Needhika Transfer",
+      "category": "Entertainment",
+      "type": "expense",
+      "amount": 50,
+      "date": "2026-07-28",
+      "address": "Anna Nagar, Chennai, TN (Mock Location)"
+    },
+    {
+      "id": "1785214100383",
+      "userEmail": "kavi@gmail.com",
+      "description": "Needhika Transfer",
+      "category": "Entertainment",
+      "type": "expense",
+      "amount": 50,
+      "date": "2026-07-28",
+      "address": "Anna Nagar, Chennai, TN (Mock Location)"
+    },
+    {
+      "id": "1785162861896",
+      "userEmail": "kavi@gmail.com",
+      "description": "Karthik — UPI / GPay",
+      "category": "Personal",
+      "type": "expense",
+      "amount": 250,
+      "date": "2026-07-27",
+      "address": "Anna Nagar, Chennai, TN (Mock Location)"
+    },
+    {
+      "id": "1785162857516",
+      "userEmail": "kavi@gmail.com",
+      "description": "Karthik — UPI / GPay",
+      "category": "Personal",
+      "type": "expense",
+      "amount": 250,
+      "date": "2026-07-27",
+      "address": "Anna Nagar, Chennai, TN (Mock Location)"
+    },
+    {
+      "id": "tx_reward_1785162585899",
+      "userEmail": "kavi@gmail.com",
+      "description": "GPay Cashback Reward",
+      "category": "Other Income",
+      "type": "income",
+      "amount": 0.73,
+      "date": "2026-07-27"
+    },
+    {
+      "id": "1785162517468",
+      "userEmail": "kavi@gmail.com",
+      "description": "Netflix — UPI / GPay",
+      "category": "Entertainment",
+      "type": "expense",
+      "amount": 299,
+      "date": "2026-07-27",
+      "address": "Anna Nagar, Chennai, TN (Mock Location)"
+    },
+    {
+      "id": "1785162512886",
+      "userEmail": "kavi@gmail.com",
+      "description": "Netflix — UPI / GPay",
+      "category": "Entertainment",
+      "type": "expense",
+      "amount": 299,
+      "date": "2026-07-27",
+      "address": "Anna Nagar, Chennai, TN (Mock Location)"
+    },
+    {
+      "id": "1785161648764",
+      "userEmail": "kavi@gmail.com",
+      "description": "Needhika — UPI / GPay",
+      "category": "Salary",
+      "type": "income",
+      "amount": 8000,
+      "date": "2026-07-27",
+      "address": "Union Square, San Francisco, CA (Mock Location)"
+    },
+    {
+      "id": "1785161646068",
+      "userEmail": "kavi@gmail.com",
+      "description": "Needhika — UPI / GPay",
+      "category": "Salary",
+      "type": "income",
+      "amount": 8000,
+      "date": "2026-07-27",
+      "address": "Union Square, San Francisco, CA (Mock Location)"
+    },
+    {
+      "id": "1785161205104",
+      "userEmail": "kavi@gmail.com",
+      "description": "Mounika — UPI / GPay",
+      "category": "Freelance",
+      "type": "expense",
+      "amount": 5,
+      "date": "2026-07-27",
+      "address": "Union Square, San Francisco, CA (Mock Location)"
+    },
+    {
+      "id": "1785161200905",
+      "userEmail": "kavi@gmail.com",
+      "description": "Mounika — UPI / GPay",
+      "category": "Freelance",
+      "type": "expense",
+      "amount": 5,
+      "date": "2026-07-27",
+      "address": "Union Square, San Francisco, CA (Mock Location)"
+    },
+    {
+      "id": "1",
+      "userEmail": "admin@finsphere.com",
+      "date": "2026-07-27",
+      "description": "Payment received from Needhika",
+      "category": "Salary",
+      "type": "income",
+      "amount": 5000,
+      "address": "Anna Salai, Chennai"
+    },
+    {
+      "id": "2",
+      "userEmail": "admin@finsphere.com",
+      "date": "2026-07-26",
+      "description": "Sent to Mounika",
+      "category": "Food",
+      "type": "expense",
+      "amount": 184.5,
+      "address": "Anna Nagar, Chennai"
+    },
+    {
+      "id": "3",
+      "userEmail": "admin@finsphere.com",
+      "date": "2026-07-25",
+      "description": "Transfer to Manju",
+      "category": "Housing",
+      "type": "expense",
+      "amount": 1500,
+      "address": "T. Nagar, Chennai"
+    },
+    {
+      "id": "4",
+      "userEmail": "admin@finsphere.com",
+      "date": "2026-07-24",
+      "description": "Paid to Abi",
+      "category": "Utilities",
+      "type": "expense",
+      "amount": 115.4,
+      "address": "Velachery, Chennai"
+    },
+    {
+      "id": "5",
+      "userEmail": "admin@finsphere.com",
+      "date": "2026-07-23",
+      "description": "Freelance Pay from Karthik",
+      "category": "Freelance",
+      "type": "income",
+      "amount": 1200,
+      "address": "OMR IT Corridor, Chennai"
+    },
+    {
+      "id": "6",
+      "userEmail": "admin@finsphere.com",
+      "date": "2026-07-21",
+      "description": "Dinner with Anitha",
+      "category": "Food",
+      "type": "expense",
+      "amount": 76,
+      "address": "Nungambakkam, Chennai"
+    },
+    {
+      "id": "7",
+      "userEmail": "admin@finsphere.com",
+      "date": "2026-07-19",
+      "description": "Sent to Dhivya",
+      "category": "Transport",
+      "type": "expense",
+      "amount": 48,
+      "address": "Adyar, Chennai"
+    },
+    {
+      "id": "8",
+      "userEmail": "admin@finsphere.com",
+      "date": "2026-07-17",
+      "description": "Transfer to Koushik",
+      "category": "Entertainment",
+      "type": "expense",
+      "amount": 15.49,
+      "address": "Phoenix Marketcity, Velachery"
+    },
+    {
+      "id": "9",
+      "userEmail": "admin@finsphere.com",
+      "date": "2026-07-15",
+      "description": "Received from Priya",
+      "category": "Investments",
+      "type": "income",
+      "amount": 145.2,
+      "address": "Guindy Financial Center, Chennai"
+    },
+    {
+      "id": "10",
+      "userEmail": "admin@finsphere.com",
+      "date": "2026-07-13",
+      "description": "Paid to Vignesh",
+      "category": "Health",
+      "type": "expense",
+      "amount": 60,
+      "address": "Mylapore, Chennai"
+    },
+    {
+      "id": "11",
+      "userEmail": "admin@finsphere.com",
+      "date": "2026-07-12",
+      "description": "Course Fee to Needhika",
+      "category": "Education",
+      "type": "expense",
+      "amount": 24.99,
+      "address": "Online Class Hub"
+    },
+    {
+      "id": "12",
+      "userEmail": "admin@finsphere.com",
+      "date": "2026-07-09",
+      "description": "Travel Trip with Mounika",
+      "category": "Travel",
+      "type": "expense",
+      "amount": 420,
+      "address": "Chennai International Airport"
+    },
+    {
+      "id": "13",
+      "userEmail": "admin@finsphere.com",
+      "date": "2026-07-07",
+      "description": "Shopping with Manju",
+      "category": "Shopping",
+      "type": "expense",
+      "amount": 129.99,
+      "address": "Express Avenue Mall, Royapettah"
+    },
+    {
+      "id": "14",
+      "userEmail": "admin@finsphere.com",
+      "date": "2026-07-05",
+      "description": "Coffee with Abi",
+      "category": "Food",
+      "type": "expense",
+      "amount": 12.5,
+      "address": "ECR Beach Cafe, Chennai"
+    }
+  ],
+  "budgets": {
+    "admin@finsphere.com": {
+      "Food": 500,
+      "Housing": 1600,
+      "Utilities": 250,
+      "Transport": 200,
+      "Entertainment": 150,
+      "Health": 100,
+      "Education": 150,
+      "Travel": 600,
+      "Shopping": 300,
+      "Miscellaneous": 150
+    }
+  },
+  "goals": [
+    {
+      "id": "g1",
+      "userEmail": "admin@finsphere.com",
+      "name": "Emergency Fund",
+      "target": 10000,
+      "current": 7500,
+      "color": "#10b981"
+    },
+    {
+      "id": "g2",
+      "userEmail": "admin@finsphere.com",
+      "name": "Europe Vacation",
+      "target": 5000,
+      "current": 2200,
+      "color": "#6366f1"
+    },
+    {
+      "id": "g3",
+      "userEmail": "admin@finsphere.com",
+      "name": "Next-Gen Gaming PC",
+      "target": 2000,
+      "current": 850,
+      "color": "#f59e0b"
+    }
+  ],
+  "rewards": [
+    {
+      "id": "r1",
+      "userEmail": "admin@finsphere.com",
+      "rewardAmount": 5.5,
+      "isScratched": false,
+      "scratchedAt": null
+    },
+    {
+      "id": "r2",
+      "userEmail": "admin@finsphere.com",
+      "rewardAmount": 0,
+      "isScratched": false,
+      "scratchedAt": null,
+      "message": "Better luck next time!"
+    },
+    {
+      "id": "r3",
+      "userEmail": "admin@finsphere.com",
+      "rewardAmount": 15,
+      "isScratched": false,
+      "scratchedAt": null
+    },
+    {
+      "id": "r_1785162512887",
+      "userEmail": "kavi@gmail.com",
+      "rewardAmount": 0.73,
+      "isScratched": true,
+      "scratchedAt": "2026-07-27"
+    }
+  ]
+}
